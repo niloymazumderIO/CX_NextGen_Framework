@@ -38,14 +38,11 @@ Execution Dashboard, Detailed Analysis and Screenshot Capturing, Integrations wi
 
 * Less maintenance
 * More reusability of code
-* Reduced execution time
 * Data-driven capability
 * Easy configurable parallel execution
 * Descriptive report
-* Utility classes
-* Test Results integration with test management tools like QMetry, Rally.
-* Integration with Perfecto Mobile cloud, Sauce labs, Supports parallel execution
-* Enabling testing across multiple platforms with or without selenium grid
+* Super Utility classes
+* Integration with Jenkins, Supports parallel execution.
 
 
 
