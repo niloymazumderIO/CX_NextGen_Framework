@@ -13,5 +13,40 @@ CX NextGen Framework provides a powerful and versatile platform to author Test C
 	to develop test cases and low maintenance while supporting extensibility by:
   
   
-* Following accepted SRP design pattern in creating the core functionalities within the framework.
-* Providing an approach to develop highly maintainable and repeatable tests that utilize reusable test assets, proper modularity and semantic structure. Framework has readymade services for most 'Selenium' workflow, browser actions, reporting and data reading. Also, framework concept is based on page object model so your page and related actions will be reusable from any test case. There is a good screen shot facility is available also.
+* Adopted SRP Design Pattern
+>  Following framework accepted SRP design pattern in creating the core functionalities within the framework.
+*  Super code reusability and portability for testing team’s speed and efficiency
+>  Providing an approach to develop highly maintainable and repeatable tests that utilize reusable test assets, proper modularity and semantic structure. Framework has readymade services for most 'Selenium' workflow, browser actions, reporting and data reading. Also, framework concept is based on page object model so your page and related actions will be reusable from any test case. There is a good screen shot facility is available also.
+
+
+# Features
+
+CX NextGen Framework supports integrations with Continuous Integration Systems (Jenkins).
+CX NextGen Framework Key Features
+
+## Test Authoring:
+
+* Behavior Driven Development (BDD)
+* Keyword or Data Driven Development (Test case in CSV or EXCEL or XML)
+* Code Driven Development (TestNG test)
+
+## Execution Reporting:
+
+Execution Dashboard, Detailed Analysis and Screenshot Capturing, Integrations with CI/CD, and more
+
+## Some benefits of using the framework are:
+
+* Less maintenance
+* More reusability of code
+* Reduced execution time
+* Data-driven capability
+* Easy configurable parallel execution
+* Descriptive report
+* Utility classes
+* Test Results integration with test management tools like QMetry, Rally.
+* Integration with Perfecto Mobile cloud, Sauce labs, Supports parallel execution
+* Enabling testing across multiple platforms with or without selenium grid
+
+
+
+
