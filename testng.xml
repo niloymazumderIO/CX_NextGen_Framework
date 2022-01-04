@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="D:\My Personal Repo\CX_NextGen_Framework">
+
+    <listeners>
+        <listener
+                class-name="com.qa.aquabot.listeners.AnnotationTransformer"/>
+        <listener
+                class-name="com.qa.aquabot.listeners.ExtentReportListener"/>
+        <listener
+                class-name="com.qa.aquabot.listeners.TestAllureListener"/>
+    </listeners>
+
+    <test verbose="1" name="AquaBot Test - ch - 96">
+
         <parameter name="browser" value="chrome"/>
         <parameter name="browserVersion" value="96"/>
+
         <classes>
             <class name="com.qa.aquabot.test.ContactFromTest">
                 <methods>
@@ -11,5 +23,7 @@
                 </methods>
             </class>
         </classes>
+
     </test>
+
 </suite>

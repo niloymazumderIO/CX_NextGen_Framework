@@ -11,7 +11,7 @@
                 class-name="com.qa.aquabot.listeners.TestAllureListener"/>
     </listeners>
 
-    <test thread-count="5" name="AquaBot Test - ch - 96">
+    <test verbose="1" thread-count="5" name="AquaBot Test - ch - 96">
 
         <parameter name="browser" value="chrome"/>
         <parameter name="browserVersion" value="96"/>
@@ -25,4 +25,5 @@
         </classes>
 
     </test>
+
 </suite>
