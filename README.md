@@ -2,7 +2,7 @@
 
 Web UI (User Interface) Automation Testing Framework
 
-CX NextGen Framework provides a powerful and versatile platform to author Test Cases in Behavior Driven or Keyword Driven approach. It is a right tool for Web Platform test automation solution using Selenium. CX NextGen Framework benefits Rimsys QA Team in developing highly maintainable and repeatable tests that utilize reusable test assets, proper modularity and semantic structure. Descriptive Reporting satisfies high-level as well as low-level (debugging) aspects.
+CX NextGen Framework provides a powerful and versatile platform to author Test Cases in Code Driven, Behavior Driven or Keyword Driven approach. It is a right tool for Web Platform test automation solution using Selenium. CX NextGen Framework benefits Rimsys QA Team in developing highly maintainable and repeatable tests that utilize reusable test assets, proper modularity and semantic structure. Descriptive Reporting satisfies high-level as well as low-level (debugging) aspects.
 
 	The framework is built upon java and integrates TestNG, Selenium/Webdriver.
 	Due to the framework's thorough design, test developer does not need to worry
