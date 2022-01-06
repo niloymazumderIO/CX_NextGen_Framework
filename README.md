@@ -15,8 +15,8 @@ CX NextGen Framework provides a powerful and versatile platform to author Test C
   
 * Adopted SRP Design Pattern
 >  Following framework accepted SRP design pattern in creating the core functionalities within the framework.
-*  Super code reusability and portability for testing team’s speed and efficiency
->  Providing an approach to develop highly maintainable and repeatable tests that utilize reusable test assets, proper modularity and semantic structure. Framework has readymade services for most 'Selenium' workflow, browser actions, reporting and data reading. Also, framework concept is based on page object model so your page and related actions will be reusable from any test case. There is a good screen shot facility is available also.
+*  Super code usability and portability for testing team’s speed and efficiency
+>  Providing an approach to develop highly maintainable and repeatable tests that utilize reusable test assets, proper modularity and semantic structure. Framework has ready-made services for most 'Selenium' workflow, browser actions, reporting and data reading. Also, framework concept is based on page object model so your page and related actions will be reusable from any test case. There is a good screenshot facility is available also.
 
 
 # Features
@@ -37,7 +37,7 @@ Execution Dashboard, Detailed Analysis and Screenshot Capturing, Integrations wi
 ## Some benefits of using the framework are:
 
 * Less maintenance
-* More reusability of code
+* More usability of code
 * Data-driven capability
 * Easy configurable parallel execution
 * Descriptive report
