@@ -84,23 +84,12 @@
             <version>2.4.0-b180830.0359</version>
         </dependency>
 
-        <!--        <dependency>-->
-        <!--            <groupId>com.qmetry</groupId>-->
-        <!--            <artifactId>qaf</artifactId>-->
-        <!--            <version>3.1.0b2</version>-->
-        <!--        </dependency>-->
+        <dependency>
+            <groupId>net.andreinc</groupId>
+            <artifactId>mockneat</artifactId>
+            <version>0.4.8</version>
+        </dependency>
 
-        <!--        <dependency>-->
-        <!--            <groupId>com.qmetry</groupId>-->
-        <!--            <artifactId>qaf-support</artifactId>-->
-        <!--            <version>3.1.0b2</version>-->
-        <!--        </dependency>-->
-
-        <!--        <dependency>-->
-        <!--            <groupId>org.slf4j</groupId>-->
-        <!--            <artifactId>slf4j-api</artifactId>-->
-        <!--            <version>1.7.32</version>-->
-        <!--        </dependency>-->
     </dependencies>
 
 </project>
